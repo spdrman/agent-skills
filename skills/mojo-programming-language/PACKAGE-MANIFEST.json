@@ -1,0 +1,30 @@
+{
+  "package_version": "1.1.0",
+  "generated": "2026-08-25",
+  "upstream_repository": "https://github.com/modular/skills",
+  "upstream_branch_reviewed": "main",
+  "upstream_license": "Apache-2.0",
+  "integrated_upstream_resources": [
+    "mojo-syntax/SKILL.md",
+    "mojo-gpu-fundamentals/SKILL.md",
+    "mojo-python-interop/SKILL.md",
+    "new-modular-project/SKILL.md",
+    "closure_migration/SKILL.md",
+    "closure_migration/process.md"
+  ],
+  "local_references": [
+    "SKILL.md",
+    "references/gpu-simd-performance.md",
+    "references/language-ownership-traits.md",
+    "references/memory-unsafe-ffi.md",
+    "references/modular-official/UPSTREAM.md",
+    "references/modular-official/closure-migration-process.md",
+    "references/modular-official/closure-migration.md",
+    "references/modular-official/mojo-gpu-fundamentals.md",
+    "references/modular-official/mojo-python-interop.md",
+    "references/modular-official/mojo-syntax.md",
+    "references/modular-official/new-modular-project.md",
+    "references/review-checklists.md",
+    "references/testing-tooling-versioning.md"
+  ]
+}
