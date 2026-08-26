@@ -1,0 +1,46 @@
+THIRD-PARTY MATERIAL
+
+This repository redistributes material derived from a third party. The MIT
+licence in LICENSE covers the original work here. It does not override the
+terms below, which travel with the files they apply to.
+
+--------------------------------------------------------------------------------
+
+skills/mojo-programming-language/references/modular-official/
+
+  Derived from Modular's agent skills repository:
+    https://github.com/modular/skills  (branch: main, reviewed 2026-08-25)
+
+  Upstream skills drawn on:
+    mojo-syntax, mojo-gpu-fundamentals, mojo-python-interop,
+    new-modular-project, closure_migration
+
+  Upstream licence:
+    Apache License, Version 2.0, with LLVM Exceptions.
+
+  Two licence copies ship in that directory, and the distinction matters:
+
+    LICENSE-Modular-Skills-UPSTREAM.txt
+      Upstream's LICENSE file, verbatim, 278 lines. This is the licence as it
+      actually stands: Apache 2.0 with the LLVM Exceptions section, plus the
+      legacy NCSA section. Section 4(a) requires that recipients get a copy of
+      this licence, so this is the authoritative copy.
+
+    LICENSE-Modular-Skills-Apache-2.0.txt
+      Base Apache 2.0 text only, 202 lines, as shipped in the original package.
+      It does NOT carry the LLVM Exceptions addendum. Kept for continuity with
+      the package as received, but read the upstream copy above in preference.
+
+  The LLVM Exception relieves a redistributor of Sections 4(a), 4(b) and 4(d)
+  only for portions embedded in Object form as a result of compilation.
+  Markdown documentation is not compiled, so Section 4 applies here in full.
+
+  Upstream ships no NOTICE file of its own, so Section 4(d) is not triggered.
+
+  These files are condensed derivatives, not verbatim copies. The prose has
+  been rewritten and shortened, with only short code snippets and API
+  signatures held in common. Each bundled file carries a header naming its
+  upstream source, and UPSTREAM.md in that directory records the adaptation.
+
+  Nothing in this repository is official Modular content or endorsed by
+  Modular.

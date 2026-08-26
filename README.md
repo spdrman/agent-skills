@@ -59,8 +59,13 @@ MIT for the original work here, see [LICENSE](LICENSE).
 
 `skills/mojo-programming-language/references/modular-official/` contains
 condensed derivatives of material from
-[modular/skills](https://github.com/modular/skills), which is distributed under
-the Apache License 2.0 with LLVM Exceptions. The Apache terms travel with those
-files and the MIT grant above does not override them. See that skill's
-[README](skills/mojo-programming-language/README.md) for the full attribution.
-Nothing here is official Modular content or endorsed by Modular.
+[modular/skills](https://github.com/modular/skills), distributed under the
+Apache License 2.0 **with LLVM Exceptions**. Those terms travel with those files
+and the MIT grant above does not override them.
+
+The upstream licence file ships verbatim alongside them as
+`LICENSE-Modular-Skills-UPSTREAM.txt`, since the exceptions are part of the
+licence and the base Apache 2.0 text alone does not represent it. See
+[NOTICE](NOTICE) for the full position and that skill's
+[README](skills/mojo-programming-language/README.md) for the attribution
+detail. Nothing here is official Modular content or endorsed by Modular.

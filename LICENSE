@@ -19,18 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
----
-
-THIRD-PARTY MATERIAL
-
-skills/mojo-programming-language/references/modular-official/ contains material
-derived from Modular's agent skills repository at https://github.com/modular/skills,
-distributed under the Apache License, Version 2.0 with LLVM Exceptions. Those
-files are condensed derivatives rather than verbatim copies, each carries a
-header naming its upstream source, and the Apache 2.0 terms are included at
-skills/mojo-programming-language/references/modular-official/LICENSE-Modular-Skills-Apache-2.0.txt.
-
-The MIT terms above cover the original work in this repository. They do not
-override the Apache 2.0 terms that apply to that derived material. Nothing in
-this repository is official Modular content or endorsed by Modular.
