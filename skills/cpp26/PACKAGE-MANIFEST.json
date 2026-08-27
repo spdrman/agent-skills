@@ -1,0 +1,31 @@
+{
+  "package": "cpp26 expert C++ skill",
+  "version": "1.0.0",
+  "generated_date": "2026-08-26",
+  "based_on": "structure and rigor of prior C programming language skill",
+  "focus": [
+    "C++26",
+    "static reflection",
+    "contracts",
+    "RAII and ownership",
+    "Sutter/Stroustrup principles",
+    "concept-based generic programming",
+    "concurrency/execution",
+    "performance/ABI",
+    "verification"
+  ],
+  "files": [
+    "SKILL.md",
+    "references/concurrency-execution.md",
+    "references/cpp26-language-library.md",
+    "references/errors-contracts-safety.md",
+    "references/generic-programming.md",
+    "references/performance-portability-abi.md",
+    "references/reflection-metaprogramming.md",
+    "references/resource-value-lifetime.md",
+    "references/review-checklists.md",
+    "references/sources.md",
+    "references/sutter-stroustrup-principles.md",
+    "references/verification-tooling.md"
+  ]
+}
